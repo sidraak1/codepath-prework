@@ -21,7 +21,17 @@ The following **required** functionality is completed:
 1. Tiktok
    - Able to watch short, informative videos
    - Able to chat with friends and share videos
-2. 
+2. Instagram
+   - Able to share exciting things that happen with friends
+   - Chatting with friends and sharing posts
+3. Whatsapp
+   - Chat and video call with friends
+   - Change backgrounds of different chats
+4. BeReal
+   - Share what is currently happening with friends
+   - Look back at memories
+  
+
 
 ## Notes
 
