@@ -7,7 +7,7 @@ Submitted by: Sidra Akhtar
 
 Color Changer is an app that changes the color of the background with the click of a button. 
 
-Time spent: 1 hour spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-!</div>](https://i.imgur.com/XPTOdS1.gif)
+![x](https://i.imgur.com/XPTOdS1.gif)
 
 ## App Brainstorming (Step 4)
 
