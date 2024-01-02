@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-1. Tiktok
+1. TikTok
    - Able to watch short, informative videos
    - Able to chat with friends and share videos
 2. Instagram
@@ -31,15 +31,15 @@ The following **required** functionality is completed:
    - Share what is currently happening with friends
    - Look back at memories
   
-
+An app improvement that I believe would be useful for TikTok is adding better search features. A more advanced search feature, such as ones used for class or book finding, would be useful for TikTok. By having a way where users could add additional relevant context to their searches, this can improve the search functionality of TikTok. There can be an "advanced search" area where users can input the creator's name, a description of what video they are looking for, and any other key details they remember to enhance search results. Overall, I beleive that this new advanced search feature would greatly improve and benefit TikTok as it would allow users to interact more with the app and be able to find beneficial videos in a quick and easy manner.  
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge that I came across when building the app was that when I ran the app, it would sometimes show a blank screen rather than the words and button that I had placed on the screen. I would have to rebuild and rerun the app for it to show, but eventually it stopped doing that. Other than that, I did not run into any challenges that hindered my work. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Sidra Akhtar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
