@@ -18,6 +18,11 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+1. Tiktok
+   - Able to watch short, informative videos
+   - Able to chat with friends and share videos
+2. 
+
 ## Notes
 
 Describe any challenges encountered while building the app.
